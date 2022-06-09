@@ -85,22 +85,7 @@ function Countries () {
                 </TableContainer>
             
     
-           {/* <ul>
-               {
-              countries.map(
-                    country => (  
-                    <div className="App" key = {country.id}>
-                        <li> {country.name.common} </li>
-                        <img src={country.flags.png} alt={country.name.common}/>
-                        <p> {country.region}</p>
-                        {country.population}
-                    </div>   
-                    
-                    )
-                )
-               }
-
-           </ul> */}
+        
 
        </div>
     )
