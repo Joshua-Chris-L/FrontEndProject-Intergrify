@@ -45,8 +45,6 @@ function Countries () {
             })
         }
     )    
-    // const classes = useStyles();
-
     return (
        <div >
             <TableContainer component={Paper}>
