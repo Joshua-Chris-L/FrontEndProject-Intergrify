@@ -5,7 +5,6 @@ import Button from './Pages/Button';
 import ErrorPage from "./Pages/Errorpage";
 import {BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
-
 function App() {
   return (
     <Router>
@@ -21,5 +20,7 @@ function App() {
    
   );
 }
+
+
 
 export default App;
