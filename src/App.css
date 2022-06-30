@@ -10,8 +10,6 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
-
 .button {
   background-color: #4CAF50; /* Green */
   border: none;
@@ -27,3 +25,5 @@
   border-radius: 50%;
   cursor: pointer;
 }
+
+
